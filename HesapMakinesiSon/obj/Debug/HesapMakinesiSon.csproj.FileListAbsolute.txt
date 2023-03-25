@@ -1,0 +1,20 @@
+C:\Users\Rıdvan\source\repos\HesapMakinesiSon\HesapMakinesiSon\bin\Debug\HesapMakinesiSon.exe.config
+C:\Users\Rıdvan\source\repos\HesapMakinesiSon\HesapMakinesiSon\bin\Debug\HesapMakinesiSon.exe
+C:\Users\Rıdvan\source\repos\HesapMakinesiSon\HesapMakinesiSon\bin\Debug\HesapMakinesiSon.pdb
+C:\Users\Rıdvan\source\repos\HesapMakinesiSon\HesapMakinesiSon\obj\Debug\HesapMakinesiSon.csproj.AssemblyReference.cache
+C:\Users\Rıdvan\source\repos\HesapMakinesiSon\HesapMakinesiSon\obj\Debug\HesapMakinesiSon.Form1.resources
+C:\Users\Rıdvan\source\repos\HesapMakinesiSon\HesapMakinesiSon\obj\Debug\HesapMakinesiSon.Properties.Resources.resources
+C:\Users\Rıdvan\source\repos\HesapMakinesiSon\HesapMakinesiSon\obj\Debug\HesapMakinesiSon.csproj.GenerateResource.cache
+C:\Users\Rıdvan\source\repos\HesapMakinesiSon\HesapMakinesiSon\obj\Debug\HesapMakinesiSon.csproj.CoreCompileInputs.cache
+C:\Users\Rıdvan\source\repos\HesapMakinesiSon\HesapMakinesiSon\obj\Debug\HesapMakinesiSon.exe
+C:\Users\Rıdvan\source\repos\HesapMakinesiSon\HesapMakinesiSon\obj\Debug\HesapMakinesiSon.pdb
+C:\Users\Ridvan\Desktop\Yazdığım Tüm programlar\HesapMakinesiSon\HesapMakinesiSon\bin\Debug\HesapMakinesiSon.exe.config
+C:\Users\Ridvan\Desktop\Yazdığım Tüm programlar\HesapMakinesiSon\HesapMakinesiSon\bin\Debug\HesapMakinesiSon.exe
+C:\Users\Ridvan\Desktop\Yazdığım Tüm programlar\HesapMakinesiSon\HesapMakinesiSon\bin\Debug\HesapMakinesiSon.pdb
+C:\Users\Ridvan\Desktop\Yazdığım Tüm programlar\HesapMakinesiSon\HesapMakinesiSon\obj\Debug\HesapMakinesiSon.csproj.AssemblyReference.cache
+C:\Users\Ridvan\Desktop\Yazdığım Tüm programlar\HesapMakinesiSon\HesapMakinesiSon\obj\Debug\HesapMakinesiSon.Form1.resources
+C:\Users\Ridvan\Desktop\Yazdığım Tüm programlar\HesapMakinesiSon\HesapMakinesiSon\obj\Debug\HesapMakinesiSon.Properties.Resources.resources
+C:\Users\Ridvan\Desktop\Yazdığım Tüm programlar\HesapMakinesiSon\HesapMakinesiSon\obj\Debug\HesapMakinesiSon.csproj.GenerateResource.cache
+C:\Users\Ridvan\Desktop\Yazdığım Tüm programlar\HesapMakinesiSon\HesapMakinesiSon\obj\Debug\HesapMakinesiSon.csproj.CoreCompileInputs.cache
+C:\Users\Ridvan\Desktop\Yazdığım Tüm programlar\HesapMakinesiSon\HesapMakinesiSon\obj\Debug\HesapMakinesiSon.exe
+C:\Users\Ridvan\Desktop\Yazdığım Tüm programlar\HesapMakinesiSon\HesapMakinesiSon\obj\Debug\HesapMakinesiSon.pdb
